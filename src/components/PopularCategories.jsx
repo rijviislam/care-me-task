@@ -7,22 +7,24 @@ export default function PopularCategories() {
         <h2 className="text-[#450000] font-extrabold text-[32px] text-start">
           Popular Categories to Sell Online
         </h2>
-        <div className=" grid lg:grid-cols-4 gap-5 md:gap-30 md:grid-cols-3 grid-cols-2 mt-10">
-          <div className="flex flex-col gap-5">
+        <div className=" grid lg:grid-cols-4 gap-5 md:gap-20 md:grid-cols-3 grid-cols-2 mt-10">
+          <div className="flex flex-col gap-5  w-[230px]">
             <p className="text-[18px] text-gray-600">Sell Sarees Online</p>
             <p className="text-[18px] text-gray-600">Sell Jewellery Online</p>
           </div>
-          <div className="flex flex-col gap-5">
-            <p className="text-[18px] text-gray-600">Sell Sarees Online</p>
-            <p className="text-[18px] text-gray-600">Sell Jewellery Online</p>
+          <div className="flex flex-col gap-5  w-[230px]">
+            <p className="text-[18px] text-gray-600">Sell Tshirts Online</p>
+            <p className="text-[18px] text-gray-600">Sell Shirts Online</p>
           </div>
-          <div className="flex flex-col gap-5 ">
-            <p className="text-[18px] text-gray-600">Sell Sarees Online</p>
-            <p className="text-[18px] text-gray-600">Sell Jewellery Online</p>
+          <div className="flex flex-col gap-5  w-[230px]">
+            <p className="text-[18px] text-gray-600">Sell Watches Online</p>
+            <p className="text-[18px] text-gray-600">
+              SSell Electronics Online
+            </p>
           </div>
-          <div className="flex flex-col gap-5">
-            <p className="text-[18px] text-gray-600">Sell Sarees Online</p>
-            <p className="text-[18px] text-gray-600">Sell Jewellery Online</p>
+          <div className="flex flex-col gap-5  w-[230px]">
+            <p className="text-[18px] text-gray-600">Sell Clothes Online</p>
+            <p className="text-[18px] text-gray-600">Sell Socks Online</p>
           </div>
         </div>
       </div>
