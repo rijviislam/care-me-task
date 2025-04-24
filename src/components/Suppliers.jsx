@@ -6,35 +6,35 @@ import Img4 from "../assets/Screenshot 2025-04-24 at 11.37.07 PM.png";
 
 export default function Suppliers() {
   return (
-    <div className="my-10 bg-[#FFF]  md:mx-20 flex flex-col items-center">
-      <div className="flex flex-wrap gap-10 items-center justify-center">
-        <div className="bg-[#F3F3F3]  p-5 flex flex-col gap-3 rounded-[10px] w-[250px]">
+    <div className="my-10 bg-[#FFF] flex flex-col items-center lg:mx-5 xl:mx-0">
+      <div className="flex flex-wrap gap-4 items-center justify-center ">
+        <div className="bg-[#F3F3F3]  p-4 flex flex-col gap-3 rounded-[10px] w-[240px] h-[130px]">
           <h3 className="text-2xl font-extrabold text-[#450000]">11 Lakh+</h3>
-          <p className="text-xl font-semibold text-gray-500">
+          <p className="text-[18px] font-semibold text-gray-500">
             Trust Care Me to sell <br /> online
           </p>
         </div>
-        <div className="bg-[#F3F3F3]  p-5 flex flex-col gap-3 rounded-[10px] w-[250px]">
+        <div className="bg-[#F3F3F3]  p-4 flex flex-col gap-3 rounded-[10px] w-[240px] h-[130px]">
           <h3 className="text-2xl font-extrabold text-[#450000]">14 Crore+</h3>
-          <p className="text-xl font-semibold text-gray-500">
+          <p className="text-[18px] font-semibold text-gray-500">
             Customers buying across Bangladesh
           </p>
         </div>
-        <div className="bg-[#F3F3F3]  p-5 flex flex-col gap-3 rounded-[10px] w-[250px]">
+        <div className="bg-[#F3F3F3]  p-4 flex flex-col gap-3 rounded-[10px] w-[240px] h-[130px]">
           <h3 className="text-2xl font-extrabold text-[#450000]">19000+</h3>
-          <p className="text-xl font-semibold text-gray-500">
+          <p className="text-[18px] font-semibold text-gray-500">
             Pincode Supported for delivery
           </p>
         </div>
-        <div className="bg-[#F3F3F3]  p-5 flex flex-col gap-3 rounded-[10px] w-[250px]">
+        <div className="bg-[#F3F3F3]  p-4 flex flex-col gap-3 rounded-[10px] w-[240px] h-[130px]">
           <h3 className="text-2xl font-extrabold text-[#450000]">700+</h3>
-          <p className="text-xl font-semibold text-gray-500">
+          <p className="text-[18px] font-semibold text-gray-500">
             Categories to sell online
           </p>
         </div>
       </div>
-      <div className="flex xl:mx-20 xl:gap-20 lg:gap-10 items-center mt-10  max-w-[1200px] flex-col lg:flex-row gap-5">
-        <div className="lg:w-1/2 md:w-2/3 mx-5 lg:mx-0">
+      <div className="flex max-w-[1000px]  items-center mt-10 flex-col lg:flex-row gap-0">
+        <div className="lg:w-1/2 md:w-2/3">
           <h2 className="text-[#450000] text-[34px] font-extrabold lg:text-start text-center">
             Why Suppliers Love Care Me
           </h2>

@@ -5,12 +5,12 @@ import Card3 from "../assets/image-0014.png";
 
 export default function Experiences() {
   return (
-    <div className="my-20 mx-5 md:mx-0">
+    <div className="mt-20 mb-10 mx-5 md:mx-0">
       <h2 className="text-[#450000] font-bold text-[34px] text-center">
         Experiences suppliers love to talk about
       </h2>
       <div className="flex flex-wrap items-center justify-center gap-[10px] mt-5 ">
-        <div className="border border-gray-400 p-4 max-w-[400px] rounded-[5px]">
+        <div className="border border-gray-400 p-4 max-w-[330px] rounded-[5px]">
           <div className="relative">
             <img src={Card3} alt="Card Image" className="object-cover" />
             <div className="border-5 w-14 h-14 absolute -bottom-10 left-7 flex items-center justify-center bg-[#450000] border-[#FF8001] rounded-full cursor-pointer">
@@ -29,15 +29,15 @@ export default function Experiences() {
             <h3 className="text-[#450000] font-bold text-[20px]">
               Amit and Rajat Jain
             </h3>
-            <p className="my-3 text-[16px] text-gray-500">Smartees, Tiruppur</p>
-            <p className="text-[16px] text-gray-500">
+            <p className="my-3 text-[15px] text-gray-500">Smartees, Tiruppur</p>
+            <p className="text-[13px] text-gray-500">
               Our business has grown beyond our imagination, getting upto 10,000
               orders consistently during sale days. We are now constantly
               bringing new products thanks to Meesho's insights.
             </p>
           </div>
         </div>
-        <div className="border border-gray-400 p-4 max-w-[400px] rounded-[5px]">
+        <div className="border border-gray-400 p-4 max-w-[330px] rounded-[5px]">
           <div className="relative">
             <img src={Card2} alt="Card Image" className="object-cover" />
             <div className="border-5 w-14 h-14 absolute -bottom-10 left-7 flex items-center justify-center bg-[#450000] border-[#FF8001] rounded-full cursor-pointer">
@@ -54,17 +54,17 @@ export default function Experiences() {
           </div>
           <div className="mt-18">
             <h3 className="text-[#450000] font-bold text-[20px]">Suman</h3>
-            <p className="my-3 text-[16px] text-gray-500">
+            <p className="my-3 text-[15px] text-gray-500">
               Keshav Fashion, Hisar
             </p>
-            <p className="text-[16px] text-gray-500">
+            <p className="text-[13px] text-gray-500">
               Our business has grown beyond our imagination, getting upto 10,000
               orders consistently during sale days. We are now constantly
               bringing new products thanks to Meesho's insights.
             </p>
           </div>
         </div>
-        <div className="border border-gray-400 p-4 max-w-[400px] rounded-[5px]">
+        <div className="border border-gray-400 p-4 max-w-[330px] rounded-[5px]">
           <div className="relative">
             <img src={Card1} alt="Card Image" className="object-cover" />
             <div className="border-5 w-14 h-14 absolute -bottom-10 left-7 flex items-center justify-center bg-[#450000] border-[#FF8001] rounded-full cursor-pointer">
@@ -83,10 +83,10 @@ export default function Experiences() {
             <h3 className="text-[#450000] font-bold text-[20px]">
               Mohit Rathi
             </h3>
-            <p className="my-3 text-[16px] text-gray-500">
+            <p className="my-3 text-[15px] text-gray-500">
               Meira Jewellery, Ahmedabad
             </p>
-            <p className="text-[16px] text-gray-500">
+            <p className="text-[13px] text-gray-500">
               Our business has grown beyond our imagination, getting upto 10,000
               orders consistently during sale days. We are now constantly
               bringing new products thanks to Meesho's insights.
