@@ -6,8 +6,8 @@ import Img4 from "../assets/Screenshot 2025-04-24 at 11.37.07 PM.png";
 
 export default function Suppliers() {
   return (
-    <div className="my-10 bg-[#FFF]  mx-20">
-      <div className="grid grid-cols-4 place-items-center ">
+    <div className="my-10 bg-[#FFF]  md:mx-20 flex flex-col items-center">
+      <div className="flex flex-wrap gap-10 items-center justify-center">
         <div className="bg-[#F3F3F3]  p-5 flex flex-col gap-3 rounded-[10px] w-[250px]">
           <h3 className="text-2xl font-extrabold text-[#450000]">11 Lakh+</h3>
           <p className="text-xl font-semibold text-gray-500">
@@ -33,17 +33,17 @@ export default function Suppliers() {
           </p>
         </div>
       </div>
-      <div className="flex mx-10 gap-10 items-center mt-10">
-        <div className="w-1/2">
-          <h2 className="text-[#450000] text-[34px] font-extrabold">
+      <div className="flex xl:mx-20 xl:gap-20 lg:gap-10 items-center mt-10  max-w-[1200px] flex-col lg:flex-row gap-5">
+        <div className="lg:w-1/2 md:w-2/3 mx-5 lg:mx-0">
+          <h2 className="text-[#450000] text-[34px] font-extrabold lg:text-start text-center">
             Why Suppliers Love Care Me
           </h2>
-          <p className="text-[18px]">
+          <p className="text-[18px] lg:text-start text-center">
             All the benefits that come with selling on Care Me are designed to
             help you sell more, and make it easier to grow your business.
           </p>
         </div>
-        <div className="border border-gray-300 p-5 w-1/2 rounded-[5px]">
+        <div className="border border-gray-300 p-5 lg:w-1/2 lg:mx-0 mx-5 rounded-[5px]">
           <div className="flex gap-3 border-b border-gray-300 py-5 items-start justify-start ">
             <img src={Img4} alt="Logo" className="w-12 h-12" />
             <div>
