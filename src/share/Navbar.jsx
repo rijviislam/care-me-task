@@ -3,7 +3,7 @@ import Hamburger from "../assets/svgviewer-output.svg";
 
 export default function Navbar() {
   return (
-    <div className="flex items-center justify-between xl:px-20 px-5 bg-[#FFF] py-10">
+    <div className="flex items-center justify-between xl:px-20 px-5 bg-[#FFF] py-10 ">
       <h1 className="text-[#450000] text-xl sm:text-3xl font-bold cursor-pointer">
         Care me
       </h1>
