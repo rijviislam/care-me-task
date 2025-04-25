@@ -21,7 +21,7 @@ export default function Banner() {
           <input
             type="number"
             placeholder="Enter your mobile number"
-            className="bg-[#FFF] w-2/3 px-4 py-2 outline-none rounded-l-lg"
+            className="bg-[#FFF] w-2/3 px-4 py-2 outline-none rounded-l-lg appearance-none [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
           />
           <button className="bg-[#450000] sm:text-[18px] text-[12px] w-1/3 text-[#FFF] rounded-r-lg">
             Start Selling
