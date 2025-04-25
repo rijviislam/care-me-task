@@ -6,7 +6,7 @@ import Img4 from "../assets/Screenshot 2025-04-24 at 11.37.07 PM.png";
 
 export default function Suppliers() {
   return (
-    <div className="my-10 bg-[#FFF] flex flex-col items-center lg:mx-5 xl:mx-0">
+    <div className="my-10 bg-[#FFF] flex flex-col items-center lg:mx-5 xl:mx-0 ">
       <div className="flex flex-wrap gap-4 items-center justify-center ">
         <div className="bg-[#F3F3F3]  p-4 flex flex-col gap-3 rounded-[10px] w-[240px] h-[130px]">
           <h3 className="text-2xl font-extrabold text-[#450000]">11 Lakh+</h3>
@@ -33,7 +33,7 @@ export default function Suppliers() {
           </p>
         </div>
       </div>
-      <div className="flex max-w-[1000px]  items-center mt-10 flex-col lg:flex-row gap-0">
+      <div className="flex max-w-[1000px]  items-center mt-10 flex-col lg:flex-row gap-0 ">
         <div className="lg:w-1/2 md:w-2/3">
           <h2 className="text-[#450000] text-[34px] font-extrabold lg:text-start text-center">
             Why Suppliers Love Care Me

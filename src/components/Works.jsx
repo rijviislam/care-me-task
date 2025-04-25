@@ -7,7 +7,7 @@ export default function Works() {
         How it works
       </h2>
       <div className="bg-[#F4F8FE]  min-h-[250px] mt-5 rounded-[5px] max-w-[1040px]">
-        <div className="flex gap-4 py-10 px-10 flex-wrap lg:flex-nowrap ">
+        <div className="flex gap-4 py-10 px-10 flex-wrap xl:flex-nowrap ">
           <div className="flex flex-col items-start">
             <div className="flex items-center justify-center gap-5">
               <div className="text-[#FFF] text-[30px] font-bold bg-[#450000] px-6 rounded-full py-[10px]">
