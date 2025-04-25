@@ -29,11 +29,11 @@ export default function Navbar() {
           Start Selling
         </button>
         {/* HAMBURGER MENU  */}
-        <div className="flex lg:hidden w-8">
+        <div className="flex lg:hidden ">
           <img
             src={Hamburger}
             alt="Hamburger Menu"
-            className="cursor-pointer"
+            className="cursor-pointer h-8 w-8"
           />
         </div>
       </div>

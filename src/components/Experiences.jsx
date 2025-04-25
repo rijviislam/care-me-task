@@ -29,7 +29,7 @@ export default function Experiences() {
             <h3 className="text-[#450000] font-bold text-[20px]">
               Amit and Rajat Jain
             </h3>
-            <p className="my-3 text-[15px] text-gray-500">Smartees, Tiruppur</p>
+            <p className="my-3 text-[16px] text-gray-600">Smartees, Tiruppur</p>
             <p className="text-[13px] text-gray-500">
               Our business has grown beyond our imagination, getting upto 10,000
               orders consistently during sale days. We are now constantly
@@ -54,7 +54,7 @@ export default function Experiences() {
           </div>
           <div className="mt-18">
             <h3 className="text-[#450000] font-bold text-[20px]">Suman</h3>
-            <p className="my-3 text-[15px] text-gray-500">
+            <p className="my-3 text-[16px] text-gray-600">
               Keshav Fashion, Hisar
             </p>
             <p className="text-[13px] text-gray-500">
@@ -83,7 +83,7 @@ export default function Experiences() {
             <h3 className="text-[#450000] font-bold text-[20px]">
               Mohit Rathi
             </h3>
-            <p className="my-3 text-[15px] text-gray-500">
+            <p className="my-3 text-[16px] text-gray-600">
               Meira Jewellery, Ahmedabad
             </p>
             <p className="text-[13px] text-gray-500">
