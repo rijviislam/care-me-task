@@ -11,7 +11,7 @@ export default function Exclusive() {
             Exclusive Supplier+ Rewards <br /> for the first 30 days
           </h3>
         </div>
-        <div className="flex w-full lg:w-1/2  gap-8 max-w-[550px] relative h-[400px] lg:h-full items-center ">
+        <div className="flex w-full lg:w-1/2  max-w-[550px] relative h-[400px] lg:h-full items-center ">
           <div className=" w-[250px] p-5 bg-[#FFF] rounded-[5px] absolute -top-10 border border-gray-300 md:left-0">
             <img src={Logo1} alt="Logo" className="w-14 h-14" />
             <h4 className="text-[#000] text-[20px] font-semibold  mb-2">
@@ -23,7 +23,7 @@ export default function Exclusive() {
               sellers who don't have a Regular GSTIN.
             </p>
           </div>
-          <div className="border border-gray-300 w-[250px] p-5 bg-[#FFF] rounded-[5px] absolute -bottom-10 right-0 ">
+          <div className="border border-gray-300 w-[250px] p-5 bg-[#FFF] rounded-[5px] absolute -bottom-10 right-1">
             <img src={Logo2} alt="Logo" className="w-14 h-14" />
             <h4 className="text-[#000] text-[20px] font-semibold  mb-2">
               Free catalog visibility of ₹600
