@@ -34,7 +34,7 @@ export default function Suppliers() {
         </div>
       </div>
       <div className="flex max-w-[1000px]  items-center mt-10 flex-col lg:flex-row gap-0 ">
-        <div className="lg:w-1/2 md:w-2/3">
+        <div className="lg:w-1/2 md:w-2/3 px-4 md:px-0">
           <h2 className="text-[#450000] text-[34px] font-extrabold lg:text-start text-center">
             Why Suppliers Love Care Me
           </h2>

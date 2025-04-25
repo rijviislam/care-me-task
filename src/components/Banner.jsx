@@ -5,7 +5,7 @@ export default function Banner() {
   return (
     <div className="bg-[#EAE3E3] gap-10 md:gap-0 flex md:flex-row flex-col-reverse w-full  md:h-[400px] ">
       <div className="md:w-1/2 flex flex-col justify-center xl:pl-16 pl-8  pb-5 md:pb-0">
-        <h2 className="text-[32px] flex flex-col font-extrabold text-[#000]">
+        <h2 className="text-[32px] flex flex-col font-extrabold text-[#000] px-2 md:px-0">
           Sell online to 14 Cr+ customers at{" "}
           <span className="text-[#450000] font-semibold">0% Commission</span>
         </h2>
