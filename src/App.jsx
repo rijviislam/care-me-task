@@ -6,8 +6,10 @@ import PopularCategories from "./components/PopularCategories";
 import Suppliers from "./components/Suppliers";
 import Support from "./components/Support";
 import Works from "./components/Works";
+import useLenis from "./hooks/useLenis";
 
 export default function App() {
+  useLenis();
   return (
     <div>
       <Banner />
